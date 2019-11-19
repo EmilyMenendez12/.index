@@ -1,50 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <body>
-    <h3> Client Information</h3>
-    <form method="get">
-      First name: <input type="text" name "First name" value= "Johnny">
-      Last name: <input type="text" name="last name" value="Smith"
-   </form> 
-    <br>
-      <form method="get">
-        <input type="text" name="search" value="Search Google or type in URL" size="40">
-      </form>
-      <h4> Drop Down</h4>
-      <form method="post">
-        <label for="country"> country: </label>
-        <select name="country" id="country">
-          <optgroup label="Africa">
-          <option value="Ghana"> Ghana</option>
-                   <option value="Mali"> Mali</option>
-          </optgroup>
-          <optgroup label="Asia">
-                   <option value="South Korea"> South Korea</option>
-                   <option value="Japan"> Japan</option>
-                   <option value="China"> China</option>
-          </optgroup>
-        </select>
-        </br>
-      <label for="urban"> Urban:  </label>
-      <select name="urban" id="urban">
-        <option value="urban"> urban </option>
-        <option value="rural"
-                > rural </option> 
-      </select>
-    </form> 
-    <form action="/action-page.php.">
-      <label form="male"> Female </label>
-      <input type="radio" name="gender" id="female" value="female">
-      <br>
-      <label form="male"> Male </label>
-      <input type="radio" name="gender" id="male" value="male"> </br> 
-    
-    <!DOCTYPE html>
-<html>
-	<head>
-		<title>Octopuses</title>
-		<link rel="stylesheet" type="text/css" href="style.css">
-	</head>
+</head>
 
 	<body>
 	    <div class="title">
@@ -176,3 +130,4 @@ definitions for programming class
 	</svg>
 </body>
 </html>
+© 2019 GitHub, Inc.
